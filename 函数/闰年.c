@@ -1,5 +1,5 @@
 //编一个函数，若参数y为闰年，则返回1；否则返回0。主函数接受键盘输入一个合法的年份，判断是不是闰年
-#if 0
+#if 1
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
